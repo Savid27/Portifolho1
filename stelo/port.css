@@ -20,6 +20,8 @@
 
 
 body{
+    height: 90vh;
+    background-image: url("/Imagens/wallpaper004.jpg")
     background-color: rgb(53, 118, 216);
     font-family: Arial, Helvetica, sans-serif
     

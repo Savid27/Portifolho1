@@ -64,21 +64,27 @@ header > h1{
     }
 nav{
     text-align: center;
-    
-    padding: 10px;
+    margin: 10px;
+    box-shadow: black;
+    padding: 10px ;
    
     
     }
     nav> a{
-        color: rgb(234, 234, 240);
-        padding: 10px;
+        color: rgb(35, 21, 226);
+        padding: 15px 15px 15px 15px;
         text-decoration: none;
         font-weight: bold;
-        border-radius: 5px;
+        border-radius: 30px;
         transition-duration: 2s;
+        background-color: white;
+        
+        
+        
+        
     }
     nav>a:hover{
-        background-color: rgb(136, 136, 190);
+        background-color: rgb(28, 209, 73);
         color: black;
     }
     main{
